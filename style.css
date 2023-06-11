@@ -113,7 +113,7 @@ a {
   text-decoration: none;
   color: inherit;
 }
-strong+a:hover {
+form div a:hover {
   text-decoration: underline;
 }
 form section:nth-of-type(2)
